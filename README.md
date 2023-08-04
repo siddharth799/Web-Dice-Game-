@@ -1,3 +1,3 @@
 # Dicee-Challenge
-Basic "Dice Game Challenge" using HTML, CSS and JavaScript
+Random number generate with help of Dice
 
